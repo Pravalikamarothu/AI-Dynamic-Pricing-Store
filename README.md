@@ -1,6 +1,6 @@
 # AI-Driven Dynamic Pricing E-commerce System
 
-A full-stack application that uses machine learning to dynamically price products in real-time based on inventory levels, competitor prices, sales data, and other market factors.
+A full-stack responsive application that uses machine learning to dynamically price products in real-time based on inventory levels, competitor prices, sales data, and other market factors.
 
 ## 🚀 Features
 
